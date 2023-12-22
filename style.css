@@ -1,0 +1,197 @@
+ul{
+list-style-type: none;
+margin:0px;
+padding: 0px;
+width: 200px;
+background-color: black;
+position: fixed;
+height: 100%;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 16px 21px;
+    text-decoration: none;
+    
+}
+
+li a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+h1{
+    text-align: center;
+    padding: 15px;
+    background-color: yellowgreen;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.primeiro{
+    margin: 5px;
+    width: 1000px;
+    margin: auto;
+    padding:50px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.descobrimento{
+    text-align: center;
+}
+
+.segundo{
+    width: 1000px;
+    margin: auto;
+    padding:50px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.chegada{
+    text-align: center;
+    padding: 30px;
+}
+
+.footer{
+    background-color: yellowgreen;
+    color:white;
+    text-align: center;
+    padding: 15px;
+}
+  
+.h{
+    text-align: center;
+}
+
+
+
+
+/* Periodo Colonial */
+
+.listacl{
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+    width: 200px;
+    background-color: black;
+    position: fixed;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*Periodo Colonial*/
+
+.imgpl{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Ciclo de ouro*/
+
+.tabela{
+    list-style-type: circle;
+    width: 1000px;
+    margin: auto;
+    padding:45px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+/*Inconfidencia Mineira*/
+
+.sub{
+    margin: 5px;
+    float:center;
+   text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+
+  /*Periodo imperial*/
+
+  .imgdom{
+   background-color:black;
+   color: white;
+ 
+  }
+
+  .imperio{
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+    width: 200px;
+    background-color: blue;
+    position: fixed;
+    height: 100%;
+
+    
+    }
+
+
+    .fila {
+        display: block;
+        color: black;
+        padding: 16px 21px;
+        text-decoration: none;}
+
+
+        /* Guerra do Paraguai */
+
+    .imgguerra{
+        background-image: url(https://th.bing.com/th/id/OIP.pEbEhyCh47UjyLHnBc1inwHaFj?rs=1&pid=ImgDetMain);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: fixed;
+
+
+    }
+
+  /* Periodo Republicano */
+
+  .corpo{
+    background-color:yellowgreen;
+
+  }
+
+    
+ /* Era Vargas */
+
+
+
+
+
+ .vargas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+ /*Exercicios*/
+
+
+ 
+
+   
+
+ 
